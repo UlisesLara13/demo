@@ -1,14 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+    "numeroSorteo": 123,
+    "fecha": "2024-01-16",
+    "dineroTotalAcumulado": 1000000,
+    "numerosSorteados": [
+      [
+        1,
+        56789
+      ],
+      [
+        2,
+        10130
+      ],
+      [
+        3,
+        15081
+      ],
+      [
+        4,
+        20442
+      ],
+      [
+        5,
+        25973
+      ]
+    ]
+  },
+  {
+    "numeroSorteo": 234,
+    "fecha": "2024-01-17",
+    "dineroTotalAcumulado": 1500000,
+    "numerosSorteados": [
+      [
+        1,
+        54321
+      ],
+      [
+        2,
+        98765
+      ],
+      [
+        3,
+        24680
+      ],
+      [
+        4,
+        13579
+      ],
+      [
+        5,
+        80246
+      ]
+    ]
   }
-}
